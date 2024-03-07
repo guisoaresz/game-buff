@@ -1,0 +1,7 @@
+name: GameBuff
+main: com.gsoares.buff.Main
+version: 1.0
+author: [guisoaresz]
+depend: [Vault]
+commands:
+  buff:

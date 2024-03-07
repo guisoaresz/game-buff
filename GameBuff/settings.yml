@@ -1,0 +1,9 @@
+# Configure com os detalhes que preferir.
+# Ativado = true, desativado = false;
+
+Servidor:
+  AnunciarAoAplicarBuff: "ativado" # A mensagem anunciada pode ser alterada no arquivo 'mensagens.yml'.
+
+Configuracao:
+  Valor: 20000 # Valor que sera debitado ao utilizar o buff.
+  Cooldown: 60 # Defina o tempo em segundos.

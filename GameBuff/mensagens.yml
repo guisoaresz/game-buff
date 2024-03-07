@@ -1,0 +1,12 @@
+# Placeholders: 
+# $cooldown - tempo para utilizar o comando novamente.
+# $nick - nick de quem utilizou o comando.
+# $valor - valor do buff.
+# Utilize <br> para quebra de linha (pular uma linha).
+
+Mensagens:
+  BuffAplicado: "<br>&aYeah! Agora você está buffado. $valor foram debitados da sua conta."
+  AnuncioGlobal: "<br>&6&l[BUFF] §fO jogador §e$nick &facaba de utilizar o /buff.<br>"
+  TempoCooldown: "<br>&c* Você só poderá utilizar o /buff em $cooldown segundos."
+  SemDinheiro: "<br>&cVocê não tem dinheiro o suficiente."
+  SemPermissao: "<br>&c* Você não pode fazer isto!"
